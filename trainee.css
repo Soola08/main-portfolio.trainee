@@ -1,0 +1,150 @@
+body{
+    background-color:#ffffff;
+    cursor: grab;
+}
+.first-main{
+    background-color:#ff9999;
+}
+.first-list{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    color: #ffffff;
+    text-align: right;
+    display: flex;
+    margin-bottom: 0px;
+    justify-content: flex-end;
+   
+}
+.first-list li{
+    margin-right: 10px;
+    padding: 5px 10px;
+}
+.first-list a{
+    color:#ffffff;
+    text-decoration: none;
+}
+.main-image{
+    background-color: #ff9999;
+    margin-top: 0px;
+    display: flex;
+   
+}
+.image-text{
+
+color: #ffffff;
+padding: 0px 20px 0px 20px ;
+
+}
+h3{
+font-weight:lighter;
+}
+.first-name{
+   font-size: 30px;
+margin-top: 0px;
+
+}
+#first-job{
+    text-decoration: underline;
+    font-size: 20px;
+}
+.pin-r{
+    color: #ff0000;
+}
+.second-image, .third-image, .fourth-image, .final-image{
+    padding: 50px 100px 0px 0px;
+}
+.skill_set{
+    display: inline-block;
+    list-style-type: none;
+    
+   
+}
+.skill_set li{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 15px;
+
+}
+.skill_set li span{
+    padding: 5px 10px;
+    
+}
+.int-list{
+    display: inline-block;
+   list-style-type: none;
+  
+}
+.int-list li{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
+.int-list li span{
+    padding: 5px 10px;
+}
+.edu-list{
+    padding: 5px;
+}
+
+ h4{
+    color: #ff0000;
+    text-decoration: underline;
+    display: flex;
+}
+ h5, h6{
+    color: #ff4d4d;
+    font-size: 14px;
+    font-style: italic;
+}
+.degree-study{
+    color: #ff0000;
+    font-size: 20px;
+    list-style-type: none;
+
+}
+.degree-study p{
+    color: black;
+    font-size: 15px;
+}
+.degree-studi{
+    color: #ff0000;
+    font-size:20px ;
+    list-style-type: none;
+    margin-bottom: 0px;
+}
+.project-topic{
+    margin-top: 0px;
+}
+
+img{
+    float: right;
+    width: 150px;
+    height: 150px;
+  border: 3px solid  #cc0000;
+  border-radius: 50%;
+  vertical-align: text-top;
+ 
+  padding: 10px;
+}
+.achi-tasks, .project-topic{
+    list-style-type: square;
+}
+.certificate-list{
+    text-align:left;
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px;
+}
+span{
+   
+  width: 100px;
+  height: 50px;
+  padding: 2px;
+  border: 1px solid  #ff4d4d;  
+  background-color:#ff6666; 
+  border-radius: 20px;
+}
+.org-name{
+    list-style-type: none;
+}
